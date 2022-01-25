@@ -1,6 +1,7 @@
 {
     "available_space": true,
-    "files": [
+    "total_size": 985.7279000000004,
+    "videos": [
         "Dragonforce - Dawn Over a New World-a2DI0k9NOIc.mp4",
         "Doomsday-Srkwsj9xsk4.mp4",
         "Duke Ellington - Satin Doll (1962)  [official video]-wTFPV1pk654.mp4",
@@ -96,7 +97,5 @@
         "Don Condón-A9BCwtEZMdw.mp4",
         "Descansa General-hud5QoICm40.mp4",
         "Don’t Lose Your Cool-Xvp5IKXYY04.mp4"
-    ],
-    "id": "d",
-    "total_size": 940.0630322265625
+    ]
 }
